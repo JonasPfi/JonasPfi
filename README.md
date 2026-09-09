@@ -1,16 +1,16 @@
 <!-- Wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Jonas%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,50:2D6A4F,100:74C69D&height=220&section=header&text=Hey,%20I'm%20Jonas%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <!-- Typing effect -->
 <p align="center">
   <a href="https://github.com/JonasPfi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=console.log(%22Hello+World%22);;Building+cool+stuff+%F0%9F%9A%80;Powered+by+coffee+%E2%98%95+and+curiosity;Always+shipping+something+new" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=52B788&center=true&vCenter=true&width=600&lines=console.log(%22Hello+World%22);;Building+cool+stuff+%F0%9F%9A%80;Powered+by+coffee+%E2%98%95+and+curiosity;Always+shipping+something+new" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JonasPfi&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/JonasPfi?label=Followers&style=flat&color=6C63FF" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=JonasPfi&label=Profile%20Views&color=52B788&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/JonasPfi?label=Followers&style=flat&color=52B788" alt="followers" />
 </p>
 
 ---
@@ -33,10 +33,10 @@
 ### 🎲 Random dev wisdom
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </p>
 
 ---
 
 <!-- Wave footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,50:2D6A4F,100:74C69D&height=120&section=footer" width="100%"/>

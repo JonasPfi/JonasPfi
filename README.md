@@ -15,13 +15,10 @@
 
 ---
 
-### ⚡ A few fun facts
-
 - 🔭 Currently building something I'll probably rewrite in 6 months
 - 🌱 Learning new things faster than I can finish old projects
 - 🐛 Professional bug creator, occasional bug fixer
 - 🎯 2026 goal: fewer merge conflicts, more green squares
-- 🎧 Code compiles better with the right playlist
 
 ---
 
